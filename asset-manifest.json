@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/share_torrinha/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/share_torrinha/static/js/main.396a83ac.chunk.js",
+    "main.js.map": "/share_torrinha/static/js/main.396a83ac.chunk.js.map",
+    "runtime-main.js": "/share_torrinha/static/js/runtime-main.03622b9c.js",
+    "runtime-main.js.map": "/share_torrinha/static/js/runtime-main.03622b9c.js.map",
+    "static/js/2.48181dbd.chunk.js": "/share_torrinha/static/js/2.48181dbd.chunk.js",
+    "static/js/2.48181dbd.chunk.js.map": "/share_torrinha/static/js/2.48181dbd.chunk.js.map",
+    "static/js/3.90fce56b.chunk.js": "/share_torrinha/static/js/3.90fce56b.chunk.js",
+    "static/js/3.90fce56b.chunk.js.map": "/share_torrinha/static/js/3.90fce56b.chunk.js.map",
+    "index.html": "/share_torrinha/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/share_torrinha/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.48181dbd.chunk.js.LICENSE.txt": "/share_torrinha/static/js/2.48181dbd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.03622b9c.js",
+    "static/js/2.48181dbd.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.396a83ac.chunk.js"
+  ]
+}
